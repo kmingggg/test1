@@ -1,0 +1,41 @@
+body {background:#DDD5B5;}
+
+y{ 
+  
+  background-color: pink;
+  text-align;center:
+    ;
+  
+
+  padding-top:5px; 
+
+  padding-left:100px; 
+
+  padding-right:100px; 
+
+  padding-bottom:30px; 
+
+  margin-top:10px; 
+
+  margin-left:500px; 
+
+  margin-right:500px; 
+
+  margin-bottom:10px;   
+
+}
+.video-back{ 
+
+position:fixed;
+
+top:0;   
+
+left:0;
+
+min-width:100%;
+
+min-height:100%;
+
+z-index:-1;  
+
+}
